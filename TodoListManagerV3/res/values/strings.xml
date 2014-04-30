@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodoListManager</string>
+    <string name="menuItemAddStr">Add a new item</string>
+    <string name="menuItemDeleteStr">Delete Item</string>
+    <string name="menuItemCallStr"></string>
+    <string name="addNewItemTitle">Add New Item</string>
+    <string name="addNewItemOKBtnStr">OK</string>
+    <string name="addNewItemCancelBtnStr">Cancel</string>
+    <string-array name="lstTodoItemsStrArray">
+    </string-array>
+
+</resources>
